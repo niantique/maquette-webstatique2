@@ -11,7 +11,7 @@ body {
   background-color: black;
 
   header {
-    background: url(assets/bg-featured-home.jpg);
+    background: url(https://niantique.github.io/maquette-webstatique2/assets/bg-featured-home.jpg);
     background-size: cover;
     background-position: center;
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
